@@ -1,0 +1,8 @@
+---
+layout: default
+img: presencial.jpg
+category: Services
+title: ENSEÑANZA BÁSICA
+description:
+---
+Clases  individuales o en grupos pequeños presenciales o vía ZOOM o equivalente en todas las asignaturas.

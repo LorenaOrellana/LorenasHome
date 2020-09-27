@@ -1,0 +1,8 @@
+---
+layout: default
+img: online.jpg
+category: Services
+title: ENSEÑANZA MEDIA
+description: |
+---
+Clases individuales o en grupos pequeños presenciales o via ZOOM o equivalente en algunas asignaturas como, por ejemplo, lenguaje, literatura, historia, etc.

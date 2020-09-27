@@ -1,0 +1,15 @@
+---
+layout: default
+img: concept.jpg
+category: Services
+title: CONCEPTO GENERAL
+description: |
+---
+**APOYO ESCOLAR Y/O PSICOPEDAGOGICO**
+
+El apoyo escolar y/o psicopedagógico se ha diseñado con el objetivo de abordar plena y profesionalmente las necesidades del niño a nivel académico, prestando especial atención a las necesidades o dificultades que pueden influir en el correcto aprendizaje.
+
+Se trata de un apoyo dirigido a niños con dificultades escolares o que requieren otra forma de enfrentar el proceso de enseñanza-aprendizaje. Se basa en un enfoque constructivista del aprendizaje que se caracteriza por el principal protagonismo del/la alumno/a y por reforzar los procesos en el aprendizaje.
+
+El objetivo es trabajar las materias escolares teniendo en cuenta las características concretas de cada niño y usando las técnicas y materiales más adecuados en cada caso.
+La planificación, organización y técnicas de estudio están dirigidas en primer lugar a planificar y organizar un horario de estudio con el niño o adolescente que le ayude a llevar al día las diferentes materias.

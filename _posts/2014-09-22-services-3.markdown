@@ -1,0 +1,9 @@
+---
+layout: default
+img: zeitung.jpg
+category: Services
+title: APOYO ESCOLAR EN ALEMÁN
+description: |
+---
+Apoyo escolar para niveles básicos en alemán.
+Clases individuales o en grupos pequeños presenciales o via ZOOM o equivalente.
