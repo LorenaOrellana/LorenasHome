@@ -5,7 +5,7 @@ category: Services
 title: CONCEPTO GENERAL
 description: |
 ---
-**APOYO ESCOLAR Y/O PSICOPEDAGOGICO**
+**APOYO ESCOLAR Y/O PSICOPEDAGÓGICO**
 
 El apoyo escolar y/o psicopedagógico se ha diseñado con el objetivo de abordar plena y profesionalmente las necesidades del niño a nivel académico, prestando especial atención a las necesidades o dificultades que pueden influir en el correcto aprendizaje.
 
