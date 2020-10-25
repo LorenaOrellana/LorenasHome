@@ -7,7 +7,7 @@ title: LORENA ORELLANA
 email: laop2004@yahoo.es
 author: Lorena Orellana
 description: >  # "Apoyo escolar y/o psicopedagógico Valdivia y alrededores."
-                Apoyo escolar y/o psicopedagógico Valdivia y alrededores
+                Apoyo escolar y/o psicopedagógico aleman Valdivia y alrededores
 copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -16,8 +16,13 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 # ----------------------- #
 gems:
   - jekyll-sitemap
+
+
 whitelist:
   - jekyll-sitemap
+plugins: 
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 permalink: pretty
